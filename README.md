@@ -31,6 +31,7 @@ List of event's backers
 ## 4th Meetup (14 October 2017)
 |Name |Type           |Nominal    |
 |-----|---------------|-----------|
+|Albert Suwandhi|Goodies|-|
 |Kevin Ongko|Snack|-|
 |Maikel Chandika|Goodies|-|
 |Mickeel Pramono|Snack|-|
