@@ -45,5 +45,9 @@ List of event's backers
 |-----|---------------|-----------|
 |Anonymous|Donation|IDR 50.000|
 |Anonymous|Donation|IDR 110.000|
+|Albert Suwandhi|Donation|IDR 50.999|
+|Ali Bangun Gea|Donation|IDR 50.000|
+|Edim Harley|Donation|IDR 25.000|
+|Erwin Tanjung|Donation|IDR 20.000|
 |Maikel Chandika|Goodies|-|
 |UPH Medan|Venue|-|
