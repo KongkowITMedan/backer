@@ -44,7 +44,7 @@ List of event's backers
 |Name |Type           |Nominal    |
 |-----|---------------|-----------|
 |Anonymous|Donation|IDR 50.000|
-|Anonymous|Donation|IDR 110.000|
+|Anonymous|Donation|IDR 110.001|
 |Albert Suwandhi|Donation|IDR 50.999|
 |Ali Bangun Gea|Donation|IDR 50.000|
 |Edim Harley|Donation|IDR 25.000|
