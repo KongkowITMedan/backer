@@ -52,5 +52,5 @@ List of event's backers
 |Jati Putra|Donation|IDR 50.000|
 |Jimmy|Donation|IDR 150.000|
 |Maikel Chandika|Goodies|-|
-|Sanjaya|Donation|IDR 50.000|
+|Microsanz|Donation|IDR 50.000|
 |UPH Medan|Venue|-|
