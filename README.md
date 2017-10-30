@@ -39,3 +39,9 @@ List of event's backers
 |Maikel Chandika|Goodies|-|
 |Mickeel Pramono|Snack|-|
 |UPH Medan|Venue|-|
+
+## 5th Meetup (28 October 2017)
+|Name |Type           |Nominal    |
+|-----|---------------|-----------|
+|Maikel Chandika|Goodies|-|
+|UPH Medan|Venue|-|
