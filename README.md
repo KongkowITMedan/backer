@@ -43,5 +43,7 @@ List of event's backers
 ## 5th Meetup (28 October 2017)
 |Name |Type           |Nominal    |
 |-----|---------------|-----------|
+|Anonymous|Donation|IDR 50.000|
+|Anonymous|Donation|IDR 110.000|
 |Maikel Chandika|Goodies|-|
 |UPH Medan|Venue|-|
