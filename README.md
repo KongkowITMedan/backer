@@ -14,8 +14,8 @@ List of event's backers
 | Indra Gunawan   | Snack         | -       |
 | UPH Medan       | Venue         | -       |
 
-
 ## 2nd Meetup (26 August 2017)
+
 | Name            | Type    | Nominal |
 | :-------------- | :------ | :-----: |
 | Andreas Chan    | Snack   | -       |
