@@ -1,6 +1,6 @@
 # Kongkow Backer
 
-If there any mistake or forgotten name(s) please inform us at hello@kongkow.club or just PM us (the admins) at [@KongkowITMedan group chat](https://t.me/KongkowITMedan). Thank you.
+If there any mistake or forgotten name(s) please inform us at hello@kongkow.club or just PM us (the admins) at [group chat](https://t.me/KongkowITMedan). Thank you.
 
 List of event's backers
 
