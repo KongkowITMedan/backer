@@ -5,13 +5,14 @@ If there any mistake or forgotten name(s) please inform us at hello@kongkow.club
 List of event's backers
 
 ## 1st Meetup (19 November 2016)
- | Name            | Type          | Nominal |
- | :---            | :---          |  :---:  |
- | Albert Suwandhi | Snack         | -       |
- | Bolu Motten     | Snack         | -       |
- | Des Dulianto    | Snack         | -       |
- | Indra Gunawan   | Snack         | -       |
- | UPH Medan       | Venue         | -       |
+
+| Name            | Type          | Nominal |
+| :---            | :---          |  :---:  |
+| Albert Suwandhi | Snack         | -       |
+| Bolu Motten     | Snack         | -       |
+| Des Dulianto    | Snack         | -       |
+| Indra Gunawan   | Snack         | -       |
+| UPH Medan       | Venue         | -       |
 
 ## 2nd Meetup (26 August 2017)
 | Name            | Type    | Nominal |
