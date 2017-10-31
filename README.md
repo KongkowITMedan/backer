@@ -2,7 +2,7 @@
 
 If there any mistake or forgotten name(s) please inform us at hello@kongkow.club or just PM us (the admins) at [group chat](https://t.me/KongkowITMedan). 
 
-Thank you.
+Thank you :heart:
 
 ## 1st Meetup (19 November 2016)
 
