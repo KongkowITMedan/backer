@@ -13,15 +13,9 @@ List of event's backers
 | Indra Gunawan   | Snack         | -       |
 | UPH Medan       | Venue         | -       |
 
-| Task | Description |
-| --- | --- |
-| `npm run dist` | `npm run dist` creates the `/dist` directory with compiled files. **Uses [Sass](http://sass-lang.com/), [Autoprefixer][autoprefixer], and [UglifyJS](https://github.com/mishoo/UglifyJS2).** |
-| `npm test` | Same as `npm run dist` plus it runs tests locally |
-| `npm run docs` | Builds and lints CSS and JavaScript for docs. You can then run the documentation locally via `npm run docs-serve`. |
-
 ## 2nd Meetup (26 August 2017)
 | Name            | Type    | Nominal |
-| --------------- | ------- | :-----: |
+| :-------------- | :------ | :-----: |
 | Andreas Chan    | Snack   | -       |
 | Bolu Motten     | Snack   | -       |
 | Kevin Ongko     | Snack   | -       |
