@@ -6,7 +6,7 @@ List of event's backers
 
 ## 1st Meetup (19 November 2016)
  | Name            | Type          | Nominal |
- | --------------- | ------------- | ------- |
+ | :---            | :---          |  :---:  |
  | Albert Suwandhi | Snack         | -       |
  | Bolu Motten     | Snack         | -       |
  | Des Dulianto    | Snack         | -       |
