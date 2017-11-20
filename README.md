@@ -59,3 +59,16 @@ Thank you :heart:
 | Maikel Chandika | Goodies  | -           |
 | Microsanz       | Donation | IDR  50.000 |
 | UPH Medan       | Venue    | -           |
+
+## 6th Meetup (19 November 2017)
+
+| Name            | Type     | Nominal     |
+| :-------------- | :------- | :---------: |
+| Anonymous       | Donation | IDR  20.000 |
+| Anonymous       | Donation | IDR 100.000 |
+| Denny           | Donation | IDR  50.000 |
+| Ferry Irawan    | Donation | IDR  55.000 |
+| IT&B Campus     | Venue    | -           |
+| Maikel Chandika | Goodies  | -           |
+| Sanjaya         | Donation | IDR  50.000 |
+| Wilson Ng       | Donation | IDR  50.000 |
