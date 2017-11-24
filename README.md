@@ -72,3 +72,4 @@ Thank you :heart:
 | Maikel Chandika | Goodies  | -           |
 | Sanjaya         | Donation | IDR  50.000 |
 | Wilson Ng       | Donation | IDR  50.000 |
+| Edwin Harly     | Donation | IDR  25.000 |
