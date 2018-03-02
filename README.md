@@ -4,7 +4,15 @@ If there any mistake or forgotten name(s) please inform us at hello@kongkow.club
 
 Thank you :heart:
 
-## 7th Meetup (13 Januari 2017)
+## 8th Meetup (24 Februari 2018)
+
+| Name            | Type     | Nominal     |
+| :-------------- | :------- | :---------: |
+| Kolonel         | Donation | IDR  50.000 |
+| Anonymous       | Donation | IDR 100.000 |
+| UPH Medan       | Venue    | -           |
+
+## 7th Meetup (13 Januari 2018)
 
 | Name            | Type     | Nominal     |
 | :-------------- | :------- | :---------: |
