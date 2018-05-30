@@ -4,6 +4,16 @@ If there any mistake or forgotten name(s) please inform us at hello@kongkow.club
 
 Thank you :heart:
 
+## 9th Meetup (24 Maret 2018)
+
+| Name            | Type     | Nominal     |
+| :-------------- | :------- | :----------:|
+| Nipe Setiawan   | Donation | IDR 200.000 |
+| Anonymous       | Donation | IDR 100.000 |
+| Anonymous       | Donation | IDR 500.000 |
+| Kolonel         | Donation | IDR  50.000 |
+| UPH medan       | Venue    | -           |
+
 ## 8th Meetup (24 Februari 2018)
 
 | Name            | Type     | Nominal     |
