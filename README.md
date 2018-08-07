@@ -4,6 +4,24 @@ If there any mistake or forgotten name(s) please inform us at hello@kongkow.club
 
 Thank you :heart:
 
+## 12th Meetup (28 Juli 2018)
+
+| Name            | Type     | Nominal     |
+| :-------------- | :------- | :----------:|
+| UPH medan       | Venue    | -           |
+
+## 11th Meetup (26 Mei 2018)
+
+| Name            | Type     | Nominal     |
+| :-------------- | :------- | :----------:|
+| UPH medan       | Venue    | -           |
+
+## 10th Meetup (21 April 2018)
+
+| Name            | Type     | Nominal     |
+| :-------------- | :------- | :----------:|
+| UPH medan       | Venue    | -           |
+
 ## 9th Meetup (24 Maret 2018)
 
 | Name            | Type     | Nominal     |
